@@ -74,3 +74,16 @@ MARKETING DEPARTMENT
 
 ### TASK #9: APPLY AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)
 
+
+
+Code and Resources Used:
+
+Python Version: 3.7 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle Sources: https://towardsdatascience.com/confusion-matrix-for-your-multi-class-machine-learning-model-ff9aa3bf7826
+
+https://opendatascience.com/how-does-the-random-forest-algorithm-work-in-machine-learning/
+
+Google Colab
+
+https://towardsdatascience.com/
+
+https://www.udemy.com/
